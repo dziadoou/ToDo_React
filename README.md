@@ -1,3 +1,12 @@
+Basic To Do app built with React (class components style) and React-Bootstrap. It allows user to add tasks, give them a deadline and a priority, edit them, mark them as finished and delete them.
+
+![todo](/assets/images/todo.jpg)
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
